@@ -114,7 +114,7 @@ After encrypting a message, selecting option `[4]` performs a letter frequency c
 
 ## 👤 Author
 
-**Kabeer** — [@Kabeer0700-gif](https://github.com/Kabeer0700-gif)
+**Kabeer** — [@Kabeer07-dev](https://github.com/Kabeer07-dev)
 
 ---
 
